@@ -1,3 +1,24 @@
-body {
-  background-color: blue;
+.widget-a {
+  width: auto;
+  border: 2px solid black;
+  background-image: url("../assets/");
+  padding: 0 5px;
+}
+
+.header-container {
+  padding: 15px 0;
+}
+
+.header {
+  margin: 0;
+  color: #4FAC26;
+  font-size: 30px;
+}
+
+.disclosure {
+  position: relative;
+  float: right;
+  padding:10px 0;
+  color: #757575;
+  font-size: 15px;
 }
