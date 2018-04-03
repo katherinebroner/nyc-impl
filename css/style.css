@@ -22,3 +22,25 @@
   color: #757575;
   font-size: 15px;
 }
+
+.large-item-holder {
+  padding-bottom: 40px;
+  border-bottom: 1px solid gray;
+}
+
+.image-holder {
+  width: 100%;
+  height: 200px;
+  background-image: url("../assets/lenovo_167x94.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.item-image {
+  color: transparent;
+}
+
+.item-title {
+  padding-top: 8px;
+}
